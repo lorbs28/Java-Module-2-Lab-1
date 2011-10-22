@@ -1,0 +1,18 @@
+Oct 12, 2011 1:55:37 PM SysLogger init
+INFO: This is just a test
+Oct 12, 2011 1:55:37 PM SysLogger init
+WARNING: This is a warning message
+Oct 12, 2011 1:55:37 PM SysLogger init
+SEVERE: This is a message for a severe failure
+Oct 12, 2011 1:56:05 PM SysLogger init
+INFO: This is just a test
+Oct 12, 2011 1:56:05 PM SysLogger init
+WARNING: This is a warning message
+Oct 12, 2011 1:56:05 PM SysLogger init
+SEVERE: This is a message for a severe failure
+Oct 12, 2011 1:57:51 PM SysLogger init
+INFO: This is just a test
+Oct 12, 2011 1:57:51 PM SysLogger init
+WARNING: This is a warning message
+Oct 12, 2011 1:57:51 PM SysLogger init
+SEVERE: This is a message for a severe failure
